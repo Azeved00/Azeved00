@@ -1,35 +1,20 @@
-<h1 align="center">Hi 👋, I'm João Azevedo</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi 👋, I'm João Azevedo
 
-<div>
-  <h3 align="center">About me:</h3>
-  <hr>
+## About me:
+- I'm a Computer Science Student at FCUP (Faculdade de Ciências da Universidade do Porto).
+- Currently working for Champalimaud Fundation as a Full Stack Developer (Junior)
 
-<div>
-    <h3 align="left">Connect with me:</h3>
-    <p align="left"><p>
-</div>
+### Connect with me:
+[![My Skills](https://skillicons.dev/icons?i=instagram)]()
+[![My Skills](https://skillicons.dev/icons?i=twitter)]()
+[![My Skills](https://skillicons.dev/icons?i=linkedin)]()
 
-<div>
-    <h3 align="left">Languages and Tools:</h3>
-</div>
-</div>
-  
-<div>
-  <h3 align="center"> My Stats:</h3>
-  <hr>
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=azeved00&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=azeved00&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    
-    <img src="https://github-readme-stats.vercel.app/api?username=azeved00&show_icons=true" />
-  </picture>
-    
-</div>
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)]()
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,haskell,java)]()
+
+## My Stats:
+
+[![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azeved00&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azeved00&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
