@@ -10,8 +10,8 @@
 [![My Skills](https://skillicons.dev/icons?i=linkedin)]()
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)]()
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,haskell,java)]()
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)]()
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,haskell,java,bash)]()
 
 ## My Stats:
 
