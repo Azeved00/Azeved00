@@ -5,7 +5,7 @@
 - Currently working for Champalimaud Fundation as a Full Stack Developer (Junior)
 
 ### Connect with me:
-[![My Skills](https://skillicons.dev/icons?i=instagram)]()
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/azevedo76_/)
 [![My Skills](https://skillicons.dev/icons?i=twitter)]()
 [![My Skills](https://skillicons.dev/icons?i=linkedin)]()
 
