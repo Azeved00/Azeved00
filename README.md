@@ -17,3 +17,7 @@
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/azevedo76_/)
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Azevedo76_)
 <!-- [![My Skills](https://skillicons.dev/icons?i=linkedin)]() -->
+
+
+<!-- Counting profile Stats -->
+![](https://hit.yhype.me/github/profile?user_id=62391524)
