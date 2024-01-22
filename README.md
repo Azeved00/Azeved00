@@ -1,8 +1,10 @@
 # Hi 👋, I'm João Azevedo 
 
 ## About me:
-- I have a batchelors in Computer Science at FCUP (Faculdade de Ciências da Universidade do Porto) and I'm currently studying for masters degree.
-- Currently working for Champalimaud Fundation as a Full Stack Developer (Junior).
+- have a batchelors in Computer Science at FCUP (Faculdade de Ciências da Universidade do Porto)
+- Currently studying for Computer Science masters degree with specialization in Secure Computation.
+- NixOS is my OS
+- In love with cryptography and information theory
 
 ### Connect with me:
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/azevedo76_/)
@@ -12,9 +14,8 @@
 
 ## Some of my Projects
 [![.files](https://github-readme-stats.vercel.app/api/pin/?username=Azeved00&repo=.files&theme=github_dark_dimmed)](https://github.com/Azeved00/.files)
-[![bright-bit](https://github-readme-stats.vercel.app/api/pin/?username=Azeved00&repo=bright-biy&theme=github_dark_dimmed)](https://github.com/Azeved00/bright-bit)
+[![bright-bit](https://github-readme-stats.vercel.app/api/pin/?username=Azeved00&repo=bright-bit&theme=github_dark_dimmed)](https://github.com/Azeved00/bright-bit)
 [![CPProblems](https://github-readme-stats.vercel.app/api/pin/?username=Azeved00&repo=CPProblems&theme=github_dark_dimmed)](https://github.com/Azeved00/CPProblems)
-[![MEH](https://github-readme-stats.vercel.app/api/pin/?username=Azeved00&repo=MEH&theme=github_dark_dimmed)](https://github.com/Azeved00/MEH)
 
 
 ##What im confortable using:
