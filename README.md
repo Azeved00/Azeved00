@@ -11,14 +11,14 @@
 <!-- [![My Skills](https://skillicons.dev/icons?i=email)]() -->
 
 ## Some of my Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azeved00&repo=.files&theme=github_dark_dimmed)](https://github.com/Azeved00/.files)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azeved00&repo=teeny-sddm&theme=github_dark_dimmed)](https://github.com/Azeved00/teeny-sddm)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azeved00&repo=CPProblems&theme=github_dark_dimmed)](https://github.com/Azeved00/CPProblems)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Azeved00&repo=MEH&theme=github_dark_dimmed)](https://github.com/Azeved00/MEH)
+[![.files](https://github-readme-stats.vercel.app/api/pin/?username=Azeved00&repo=.files&theme=github_dark_dimmed)](https://github.com/Azeved00/.files)
+[![bright-bit](https://github-readme-stats.vercel.app/api/pin/?username=Azeved00&repo=teeny-sddm&theme=github_dark_dimmed)](https://github.com/Azeved00/bright-bit)
+[![CPProblems](https://github-readme-stats.vercel.app/api/pin/?username=Azeved00&repo=CPProblems&theme=github_dark_dimmed)](https://github.com/Azeved00/CPProblems)
+[![MEH](https://github-readme-stats.vercel.app/api/pin/?username=Azeved00&repo=MEH&theme=github_dark_dimmed)](https://github.com/Azeved00/MEH)
 
 
-## Languages and Tools:
-### Programming languages im confortable with:
+##What im confortable using:
+### Programming languages:
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,haskell,java,bash,python,lua,markdown)]()
 <span>
@@ -26,11 +26,11 @@
  <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
 </span>
           
-### Specifically for Web Dev:
+#### Specifically for Web Dev:
 
 [![My Skills](https://skillicons.dev/icons?i=cs,js,html,css,bootstrap,jquery,dotnet)]()
 
-### Operating Systems i have used:
+### Operating Systems:
 
 <span>
   <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-plain-wordmark.svg" />
@@ -38,7 +38,7 @@
   <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
 </span>
   
-### Tools:
+### Software:
 
 [![My Skills](https://skillicons.dev/icons?i=vim,neovim,visualstudio,postman)]()
 
