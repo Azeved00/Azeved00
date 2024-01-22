@@ -12,7 +12,7 @@
 
 ## Some of my Projects
 [![.files](https://github-readme-stats.vercel.app/api/pin/?username=Azeved00&repo=.files&theme=github_dark_dimmed)](https://github.com/Azeved00/.files)
-[![bright-bit](https://github-readme-stats.vercel.app/api/pin/?username=Azeved00&repo=teeny-sddm&theme=github_dark_dimmed)](https://github.com/Azeved00/bright-bit)
+[![bright-bit](https://github-readme-stats.vercel.app/api/pin/?username=Azeved00&repo=bright-biy&theme=github_dark_dimmed)](https://github.com/Azeved00/bright-bit)
 [![CPProblems](https://github-readme-stats.vercel.app/api/pin/?username=Azeved00&repo=CPProblems&theme=github_dark_dimmed)](https://github.com/Azeved00/CPProblems)
 [![MEH](https://github-readme-stats.vercel.app/api/pin/?username=Azeved00&repo=MEH&theme=github_dark_dimmed)](https://github.com/Azeved00/MEH)
 
