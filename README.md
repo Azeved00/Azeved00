@@ -18,7 +18,7 @@
 [![CPProblems](https://github-readme-stats.vercel.app/api/pin/?username=Azeved00&repo=CPProblems&theme=github_dark_dimmed)](https://github.com/Azeved00/CPProblems)
 
 
-##What im confortable using:
+## What im confortable using:
 ### Programming languages:
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,haskell,java,bash,python,lua,markdown)]()
